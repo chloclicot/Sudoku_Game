@@ -1,0 +1,9 @@
+const SDL_Color BLACK = {0,0,0};
+const SDL_Color DARK_GRAY_BLUE = {50,50,100};
+const SDL_Color DARK_PINK = {120,60,60};
+const SDL_Color black = {0,0,0};
+const SDL_Color darkPink = {120,60,60};
+const SDL_Color RED = {255,0,0};
+const SDL_Color LIGHT_PINK = {255,200,200};
+const SDL_Color MEDIUM_PINK = {255,180,180};
+const SDL_Color WHITE = {255,255,255};
